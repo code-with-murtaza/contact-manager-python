@@ -1,5 +1,5 @@
 # Contact Manager (Python Project)
-# --------------------------------
+# -------------------------------
 # Description:
 # A Python-based contact management system that allows users to store,
 # search, and manage contacts using a simple menu-driven interface.
