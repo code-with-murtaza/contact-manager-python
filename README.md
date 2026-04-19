@@ -19,3 +19,6 @@ This is a Python-based contact manager that allows users to store, search, and m
 
 ## 👨‍💻 Author
 Syed Murtaza
+
+## 📸 Screenshot
+![App Screenshot](screenshot.png)
